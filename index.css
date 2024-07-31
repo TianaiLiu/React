@@ -1,0 +1,16 @@
+.card{
+    border: 1px solid black;
+    border-radius:10px;
+    box-shadow:5px 5px 3px rgba(128, 128, 128, 0.432);
+    padding:20px;
+    margin: 10px;
+    text-align:left;
+    max-width:250px;
+    display: inlince-block;
+}
+.card .card-pfp{
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
